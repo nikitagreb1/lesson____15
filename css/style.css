@@ -581,7 +581,6 @@ body {
 }
 .services-item__body {
     background: #FFFFFF;
-    max-width: 324px;
     padding: 50px 44px;
     border-radius: 20px;
     min-height: 100%;
